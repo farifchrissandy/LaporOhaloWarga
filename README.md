@@ -8,6 +8,7 @@ Masyarakat dapat menerima notifikasi secara real time "reminder (Pengumuman, PKK
 Masyarakat dapat mengirim dan menerima pesan (chatting)
 Masyarakat dapat mengetahui informasi secara lengkap
 Masyarakat dapat melaporkan, wajib lapor dan penilaian fasilitas lingkungan (E-LAPOR PENGADUAN MASYARAKAT) secara publik
+
 Masyarakat dapat melapor dengan FOTO/GAMBAR sebagai bukti pelaporan kepada pihak bersangkutan (dinas umum)
 
 ## Settings Database ##
